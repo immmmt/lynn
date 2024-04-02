@@ -19,8 +19,7 @@
 【黑马】Python+人工智能 就业班（七	https://www.bilibili.com/video/BV1sC4y1p78F/
 	
 【尚硅谷】MySQL核心技术（全	https://www.bilibili.com/video/BV1Gk4y1671G/
-
-https://www.bilibili.com/video/BV1vC41187eu/
+【2024版首发】一口气学完线性回归、聚类算法、集成算法 https://www.bilibili.com/video/BV1vC41187eu/
 
 
 -
